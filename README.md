@@ -1,5 +1,5 @@
 # CPP-calculator
-cpp-calculator description
+
 
 - Proiect realizat în C++ utilizând funcții și instrucțiunea switch.
 - Permite efectuarea adunării, scăderii, înmulțirii și împărțirii.
